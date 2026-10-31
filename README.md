@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Asadullah
 
-<!--
-**skiyrm/skiyrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring CS / AI student. Currently doing A levels, learning Python and building projects toward graduate studies.
 
-Here are some ideas to get you started:
+Currently focusing on:
+- Python
+- Small projects
+- Understanding GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+Coming soon...
+
+
+- 📫 How to reach me: insta @skiyrm ,discord @skiyrm 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: polymath 
+
